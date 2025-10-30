@@ -6,6 +6,7 @@ import DrawingEditor from "../drawing/DrawingEditor"
 import Editor from "./Editor"
 
 function EditorComponent() {
+    
     const { currentFile } = useFileSystem()
     const { tabHeight } = useWindowDimensions()
     const { state } = useAppContext()
