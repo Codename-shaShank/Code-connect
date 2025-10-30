@@ -25,7 +25,7 @@ Code Connect is a collaborative, real-time code editor where users can seamlessl
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-connect-kappa-seven.vercel.app/).
+You can view the live preview of the project [here](https://code-connect-two-ivory.vercel.app/).
 
 ## 💻 Tech Stack
 
